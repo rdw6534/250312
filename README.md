@@ -9,6 +9,5 @@
 1. 간단한 문법
 1. 참고 사이트
 ## 깃허브에서는 README.md 파일을 왜 사용하는가?
-- 깃허브에서 README.md 파일은 프로젝트의 개요와 사용법을 문서화하는 데 있어 필수적으로 사용되기 때문이다.
-- 참고 사이트
-- https://velog.io/@martin-yeo/posts
+- 깃허브에서 README.md 파일은 프로젝트의 개요와 사용법을 문서화하는 데 있어 필수적으로 사용되기 때문이다.<br>
+- 참고 사이트 https://velog.io/@martin-yeo/posts
